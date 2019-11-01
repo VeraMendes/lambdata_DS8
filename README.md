@@ -14,6 +14,7 @@ e.g.: `pip install -i https://test.pypi.org/simple/ lambdata-veramendes`
 Use `import lambdata_veramendes` to import the module available at the moment.
 
 ## an example of use:
+
 ```>>> tri_recursion(12)
 1
 3
