@@ -15,9 +15,10 @@ def tri_recursion(k):
     """recursion of a value"""
     if(k>0):
         result = k + tri_recursion(k-1)
-        print(result)
+        # print(result)
     else:
         result = 0
+
     return result
 
 def sum_two_numbers(a,b):
