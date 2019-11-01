@@ -15,7 +15,8 @@ Use `import lambdata_veramendes` to import the module available at the moment.
 
 ## an example of use:
 
-```>>> tri_recursion(12)
+```
+>>> tri_recursion(12)
 1
 3
 6
