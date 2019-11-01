@@ -6,7 +6,8 @@ This package was created in order to have useful functions to apply in the data 
 It is in constant construction and it is open source.
 
 ## how to install
-Go to [TestPyPI API](https://test.pypi.org/project/lambdata-veramendes/) where the package is hosted. Install the last version available for this package in the above URL. 
+Go to [TestPyPI API](https://test.pypi.org/project/lambdata-veramendes/) where the package is hosted. Install the last version available for this package.
+e.g.: `pip install -i https://test.pypi.org/simple/ lambdata-veramendes`
 
 ## how to use
 Use `import lambdata_veramendes` to import the module available at the moment.
